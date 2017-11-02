@@ -1,0 +1,17 @@
+{
+  "name": "vod",
+  "version": "0.1.0",
+  "description": "VOD aplication with micro services",
+  "main": "index.js",
+  "repository": "git@github.com:chimico/vod.git",
+  "author": "Chimico <chimico@chimico.com.br>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "data-handler",
+    "video-handler",
+    "user-handler",
+    "vod-api",
+    "vod-front"
+  ]
+}

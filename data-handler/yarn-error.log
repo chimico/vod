@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Chimico\work\nodejs\node.exe C:\Chimico\work\nodejs\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\Albuquerques\bin;C:\Chimico\work\Git\mingw64\bin;C:\Chimico\work\Git\usr\local\bin;C:\Chimico\work\Git\usr\bin;C:\Chimico\work\Git\usr\bin;C:\Chimico\work\Git\mingw64\bin;C:\Chimico\work\Git\usr\bin;C:\Users\Albuquerques\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Common Files\Ulead Systems\MPEG;C:\Program Files (x86)\Skype\Phone;C:\Chimico\work\wamp64\bin\php\php7.1.4;C:\ProgramData\ComposerSetup\bin;C:\Users\Albuquerques\AppData\Local\Microsoft\WindowsApps;C:\Users\Albuquerques\AppData\Roaming\Composer\vendor\bin;C:\Chimico\work\Git\usr\bin;C:\Chimico\work\symfony;C:\Chimico\work\phpunit;C:\Chimico\work\nvm;C:\Chimico\work\nodejs;C:\Users\Albuquerques\AppData\Local\Microsoft\WindowsApps;C:\Users\Albuquerques\AppData\Roaming\Composer\vendor\bin;C:\Chimico\work\Git\usr\bin;C:\Chimico\work\symfony;C:\Chimico\work\phpunit;C:\Chimico\work\Git\;C:\Chimico\work\Git\usr\bin\vendor_perl;C:\Chimico\work\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.2.1
+
+Node version: 
+  8.8.1
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  SyntaxError: C:\Chimico\work\projects\vod\data-handler\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at c:\Chimico\work\nvm\v8.8.1\node_modules\yarn\lib\cli.js:770:59
+      at Generator.next (<anonymous>)
+      at step (c:\Chimico\work\nvm\v8.8.1\node_modules\yarn\lib\cli.js:92:30)
+      at c:\Chimico\work\nvm\v8.8.1\node_modules\yarn\lib\cli.js:103:13
+      at <anonymous>

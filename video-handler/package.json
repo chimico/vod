@@ -1,0 +1,10 @@
+{
+  "name": "video-handler",
+  "version": "0.1.0",
+  "description": "Video service package for the VOD application",
+  "main": "dist/index.js",
+  "repository": "git@github.com:chimico/vod.git",
+  "author": "Chimico <chimico@chimico.com.br>",
+  "license": "MIT",
+  "private": true
+}

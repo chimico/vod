@@ -7,7 +7,9 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-id-swiper": "^1.5.4",
+    "react-player": "^0.25.3",
     "react-scripts": "1.0.17",
+    "reactstrap": "^5.0.0-alpha.3",
     "swiper": "^4.0.5"
   },
   "scripts": {
